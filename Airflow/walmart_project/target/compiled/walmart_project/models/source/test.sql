@@ -1,0 +1,1 @@
+SELECT * FROM `walmart`.`bronze1`.`orders`
